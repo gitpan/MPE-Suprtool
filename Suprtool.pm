@@ -10,7 +10,7 @@ our @ISA = qw(Exporter DynaLoader);
 
 our @EXPORT_OK = ( );
 our @EXPORT = ( );
-our $VERSION = '0.5';
+our $VERSION = '0.51';
 
 
 bootstrap MPE::Suprtool $VERSION;
